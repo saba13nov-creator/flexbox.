@@ -1,0 +1,369 @@
+nav{
+  font: bold;
+  font-size:larger;
+  font-optical-sizing: 2px;
+  background-color: black;
+
+}
+
+.images-row{
+    gap: 35px;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 300px 30px 200px rgb(218, 197, 13);
+  box-shadow: 450px 10px 200px rgb(59, 1, 82);
+  display: flex;
+  justify-content: center;
+
+
+}
+.card1{
+     width: 800px;
+    height: 900%;
+    border-radius: 40px;
+    transform:rotatey(3s ease);
+    margin-left: -50px;
+    padding-left:100px;
+     box-shadow: 500px 30px 150px rgb(110, 6, 67);
+     box-sizing: 40px;
+     filter: blur(2px);
+    transition: all 3s ease in ease-out;
+    transform: rotateY(9%) ;
+    filter: blur(40%)}
+
+button{
+  background-color: #d88407;
+  font-size: larger;
+  color: rgb(14, 10, 39);
+  width:1300px ;
+  height: 30px;
+  background-size: cover;
+  border-radius: 5px;
+  box-shadow: #9e040c;
+  border-color: #141418;
+}
+button:hover{
+  color: #9b0a52;
+  translate: unset;
+  transition: all 2s ease-out;
+
+}
+
+body{
+  background-color: #08a07f;
+
+
+  
+}
+.box{
+  width: 1900px;
+  height: 70%;
+  background-color: rgb(62, 16, 80);
+  box-sizing: 20px;
+  font-style: italic;
+  font-size:40px;
+  font-weight: bold;
+  font-family:Arial, Helvetica, sans-serif ;
+  flex-direction: row;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
